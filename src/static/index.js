@@ -16,27 +16,27 @@ export const HEROS = [
   },
   {
     id: 2,
-    title: "Mobile & Computing",
+    title: "TV & Audio ",
     main: "Galaxy S25 Ultra",
     about: "Get up to $630 instant trade-in and double the storage on us.",
     image: photo,
-    lists: ["Galaxy", "Galaxy", "Galaxy", "Galaxy"]
+    lists: ["Neo Qled QN70F", "Neo Qled QN70F", "Q-series Soundbar"]
   },
   {
     id: 3,
-    title: "Mobile & Computing",
+    title: "Home Appliances",
     main: "Galaxy S25 Ultra",
     about: "Get up to $630 instant trade-in and double the storage on us.",
     image: samsungAI,
-    lists: ["Galaxy", "Galaxy", "Galaxy", "Galaxy"]
+    lists: ["Beskope Refrigerators", "Beskope Laundry", "Beskope Vacuum", "Beskope Dishwasher"]
   },
   {
     id: 4,
-    title: "Mobile & Computing",
+    title: "Monitors & Memory",
     main: "Galaxy S25 Ultra",
     about: "Get up to $630 instant trade-in and double the storage on us.",
     image: mountain,
-    lists: ["Galaxy", "Galaxy", "Galaxy", "Galaxy"]
+    lists: ["49 Oddyssey G9", "49 Oddyssey G9", "49 Oddyssey G9", "49 Oddyssey G9"]
   },
 ]
 
